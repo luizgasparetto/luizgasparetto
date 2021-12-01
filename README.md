@@ -11,7 +11,7 @@
   <a href="mailto:luizegasp@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/luiz-eduardo-gasparetto-133723225/%22%3E
+  <a href="https://www.linkedin.com/in/luiz-eduardo-gasparetto-133723225/%22%3E">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
  </p>
 </div>
