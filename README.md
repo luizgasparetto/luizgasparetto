@@ -1,27 +1,13 @@
 <body>
   <header>
-    <h1 align="middle">Welcome to my profile!
+    <h1 align="left">Hey
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26">
     </h1>
   </header>
  <section>
-    <p align="center">
-      <a href="">
-      <img  src="http://github-readme-streak-stats.herokuapp.com?user=luizgasp&theme=dark&hide_border=true&date_format=j%2Fn%5B%2FY%5D"/>
-    </a>
-    </p>
-</section>
-<p align="middle">
-  <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"/>
-  <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript"/>
-  <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"/>
-  <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="reactjs"/>
-</p>
-<p align="middle">
-  <a href="mailto:luizegasp@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/luiz-eduardo-gasparetto-133723225/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</p>
+    <div align="center">
+  <a href="https://github.com/luizgasp">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=luizgasp&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizgasp&layout=compact&langs_count=7&theme=dark"/>
+</div>
 </body>
