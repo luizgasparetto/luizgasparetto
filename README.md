@@ -1,6 +1,8 @@
 
- <h3 align="middle> Hey 👋 </h3>
-  
+<div align="center">
+ <h3> Hey 👋 </h3>
+</div>
+ 
 <div align="center">
   <a href="https://github.com/luizgasp">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=luizgasp&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
