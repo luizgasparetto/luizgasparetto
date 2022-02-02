@@ -1,21 +1,13 @@
+# Luiz Gasparetto
+<br>
 
-<div align="center">
- <h2> Hey 👋 </h2>
-</div>
- 
+⚡ Flutter & NodeJS Developer
+
+[![Linkedin Badge](https://img.shields.io/badge/-Luiz%20Gasparetto-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-eduardo-gasparetto-133723225/)](https://www.linkedin.com/in/luiz-eduardo-gasparetto-133723225/) 
+[![Gmail Badge](https://img.shields.io/badge/-luizegasp@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luizegasp@gmail.com)](mailto:luizegasp@gmail.com) 
+
+<img align="right" width="300em" height="300em" src="https://lottiefiles.com/63487-programming-computer"/>
 <div align="center">
   <a href="https://github.com/luizgasp">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=luizgasp&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizgasp&layout=compact&langs_count=7&theme=dark"/>
-</div>
- 
-
-<div align=middle>
-   <p>
-  <a href="mailto:luizegasp@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/luiz-eduardo-gasparetto-133723225/%22%3E">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
- </p>
 </div>
