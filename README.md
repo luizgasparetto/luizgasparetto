@@ -4,7 +4,7 @@ I'm 18 and I started in software development in 2021, I consider myself a persis
 
 ## `$ technologies`
 
-- Flutter/Dart
+- Flutter/Dart            - Teste
 - Node.js
 - Typescript
 
