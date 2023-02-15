@@ -13,4 +13,3 @@ I'm 18 and I started in software development in 2021, I consider myself a persis
 ## `$ contact`
 
 - LinkedIn: [luizgasp](https://www.linkedin.com/in/luizgasp/)
-- Email: [luizegasp@gmail.com](mailto:luizegasp@gmail.com)
