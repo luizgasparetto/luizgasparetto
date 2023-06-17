@@ -7,7 +7,6 @@ I consider myself a persistent, hardworking and adaptable person. I'm currently 
 ## `$ technologies`
 
 - Flutter/Dart
-- SQL, NoSQL, Firebase
 - NodeJS/Typescript
 
 ## `$ contact`
