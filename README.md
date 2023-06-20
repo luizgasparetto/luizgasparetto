@@ -11,4 +11,4 @@ I consider myself a persistent, hardworking and adaptable person. I'm currently 
 
 ## `$ contact`
 
-- LinkedIn: [luizgasp](https://www.linkedin.com/in/luizgasp/)
+- [LinkedIn](https://www.linkedin.com/in/artur-zanella-928279238/)
