@@ -1,14 +1,15 @@
 ## `ようこそ`
 
-I consider myself a persistent, hardworking and adaptable person. I'm currently a mobile developer using the Flutter framework, currently I'm focused on improving my skills with Flutter and taking some risks on the back-end, using NodeJS.
-
-"Something is only impossible until someone doubts and proves otherwise."
+I'm currently a Software Engineer looking to delve deeper into the roots of development, as well as software architecture and its patterns. I work primarily in mobile development, but also in backend and infrastructure areas. Contact me if you're interested in building something different from the usual, I'll be happy to, you betcha.
 
 ## `テクノロジー`
 
-- Flutter/Dart
-- NodeJS/Typescript
+- Flutter | Android | NodeJS
+- Dart | Kotlin | Typescript
+- Docker | AWS
 
 ## `コンタクト`
 
-- [LinkedIn](https://www.linkedin.com/in/artur-zanella-928279238/)
+- [LinkedIn](https://www.linkedin.com/in/luizgasp/)
+
+"不可能と疑って証明されるまで、何かは不可能です。"
