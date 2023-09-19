@@ -6,7 +6,6 @@ I'm currently a Software Engineer looking to delve deeper into the roots of deve
 
 - Flutter | Android | NodeJS
 - Dart | Kotlin | Typescript
-- Docker | AWS
 
 ## `コンタクト`
 
