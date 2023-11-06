@@ -9,6 +9,6 @@ I'm currently a Software Engineer looking to delve deeper into the roots of deve
 
 ## `コンタクト`
 
-- [LinkedIn](https://www.linkedin.com/in/luizgasp/)
+- [LinkedIn](https://www.linkedin.com/in/luizgasparetto/)
 
 "不可能と疑って証明されるまで、何かは不可能です。"
